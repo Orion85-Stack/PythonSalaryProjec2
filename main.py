@@ -29,6 +29,6 @@ print(
 
 # this calculates the second wage to be paid
 print(
-    f"{name_second.title()} has worked {name_second_worked_hours} hours for the week and should be paid: "
+    f"{name_second.upper()} has worked {name_second_worked_hours} hours for the week and should be paid: "
     f"\n\t{name_second_worked_hours * hourly_rate_name_second}"
 )
