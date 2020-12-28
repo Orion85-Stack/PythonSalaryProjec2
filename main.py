@@ -1,4 +1,5 @@
-name = input("Please enter your name: ")
+name = input("Please enter your name: ")     # Make changes to the input structure for the list. Refer to the 'test'
+                                            #  on repl.it
 name_second = input("Please enter your second name: ")
 salary_list_names = []
 salary_list_names.append(name.title())
